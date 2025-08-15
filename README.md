@@ -60,3 +60,12 @@ Open PowerShell and run:
 .\check_system_info.ps1
 .\clear_temp.ps1
 .\network_test.ps1
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for full details.
+
+## Author Info
+
+- Name: Nawaal Mohamed
+- GitHub: [https://github.com/Nawaalx](https://github.com/Nawaalx)
+- Email: nmohamed2019@hotmail.com
