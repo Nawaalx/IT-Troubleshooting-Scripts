@@ -61,6 +61,9 @@ Open PowerShell and run:
 .\clear_temp.ps1
 .\network_test.ps1
 
+
+git commit -m "Fix README formatting: commands in grey, License and Author Info normal"
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for full details.
 
